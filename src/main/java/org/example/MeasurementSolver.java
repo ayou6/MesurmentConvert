@@ -20,6 +20,8 @@ public class MeasurementSolver {
         }
 
 
+        System.out.print("The results are: ");
 
+            System.out.print( " ");
         }
     }
