@@ -9,6 +9,11 @@ public class MeasurementSolver {
         System.out.print("Enter the equation: ");
         String equation = scn.nextLine();
 
+        for (int i = 0; i< equation.length(); i++){
+
+
+
+        }
 
 
 
