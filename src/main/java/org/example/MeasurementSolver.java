@@ -11,6 +11,7 @@ public class MeasurementSolver {
 
         for (int i = 0; i< equation.length(); i++){
             char E = equation.charAt(i);
+            int value = (int)(E)-96;
 
 
 
