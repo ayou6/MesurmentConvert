@@ -13,6 +13,7 @@ public class MeasurementSolver {
             char E = equation.charAt(i);
             int value = (int)(E)-96;
             value = value +i;
+            String worldSplit = equation.substring(i+1,value+1);
 
 
 
