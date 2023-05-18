@@ -10,6 +10,7 @@ public class MeasurementSolver {
         String equation = scn.nextLine();
 
         for (int i = 0; i< equation.length(); i++){
+            char E = equation.charAt(i);
 
 
 
